@@ -1,0 +1,376 @@
+{
+  
+    "title" : "logo",
+    "menu" : {
+        "li1" : "Home",
+        "li2" : "About Salon",
+        "li3" : "Our Portfolio",
+        "li4" : "Contact Us",
+        "Home" : {
+            "homeFirstText" : {
+                "text1" : "WELCOME",
+                "text2" : "Luxury ​Curly Hair Salon",
+                "text3" : "Vivamus arcu felis bibendum ut tristique et. Habitant morbi tristique senectus et netus et malesuada fames. Sapien eget mi proin sed libero enim sed."
+
+            },
+            "homeFirstbtn" : "LEARN MORE",
+            "homeFirstImg" : "https://i.pinimg.com/474x/4a/95/42/4a954246b17a9ebcfa2424bbf1b1e89f.jpg",
+
+            "homeitems" : {
+                "item1" : {
+                    "item1Text" : "Professional Hair Consultation",
+                    "item1Img" : "https://images.pexels.com/photos/2787341/pexels-photo-2787341.jpeg?cs=srgb&dl=pexels-alipazani-2787341.jpg&fm=jpg"
+                },
+                "item2" : {
+                    "item2Text" : "Curly hair is most beautiful"
+                },
+                "item3":{
+                    "item3Img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfBNqQiUOfbPw3m_t5RLhw5M87r_1J9EIYqg&s"
+                },
+                "item4" : {
+                    "item4Img" : "https://c.stocksy.com/a/kWE000/z9/55846.jpg"
+                },
+                "item5":{
+                    "item5Text" : "Curly Hair Hydration Treatments",
+                    "item5btn" : "LEARN MORE"
+                },
+                "item6" : {
+                    "item6Text" : "Therefore to our clients, we always offer a consultation first, to be able to establish what sort of previous experience they have had.",
+                    "item6Img" : "https://as1.ftcdn.net/v2/jpg/04/41/63/50/1000_F_441635065_zrbydo86geu6GAIOxfxoF83YkiSLeuCq.jpg"
+                }
+            },
+
+            "animationDiv" : {
+                "animationDivText" : {
+                         "text1" : "Why is Curly Hair so special ?",
+                         "text2" : "Ultricies leo integer malesuada nunc vel risus commodo viverra maecenas. Lobortis elementum nibh tellus molestie nunc non. Aliquet bibendum"
+                },
+                "animationDivbtn" : "LEARN MORE"
+            },
+
+            "homeUsersInfo" : {
+                "firstUserImg" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/portrait-beautiful-african-woman.jpg",
+                "firstUserText" : {
+                    "text1" : "Easy Curly Girl Method for Beginners",
+                    "text2" : "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                },
+                "homeUserBtn" : "LEARN MORE",
+                "userItem1Img" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/5467890.jpg",
+                "userItem2Img" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/hair-2.jpg",
+                "userItem3Img" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/1354.jpg"
+            },
+
+            "miniDivItems" : {
+                "miniDiv1" : {
+                    "miniDiv1Img1" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/look-from-women-sitting-bed-with-white-tulips_8353-5489.jpg",
+                    "miniDiv1Text" : "Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Orci ac auctor augue mauris augue neque. Nunc lobortis mattis aliquam faucibus purus in massa. Porta lorem mollis aliquam ut porttitor leo. Ut etiam sit amet nisl purus in.",
+                    "miniDiv1Img2" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/gffggf.jpg"
+                },
+                "miniDiv2" : {
+                    "miniDiv2Text1" : "Our Curly Hair Colour",
+                    "miniDiv2Img" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/h.jpg",
+                    "miniDiv2Text2" : "Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Orci ac auctor augue mauris augue neque. Nunc lobortis mattis aliquam faucibus purus in massa. Porta lorem mollis aliquam ut porttitor leo. Ut etiam sit amet nisl purus in."
+                }
+            },
+
+           "homeCenterDiv" : {
+            "homeCenterDivText" : {
+                "text1" : "Our Curly Haircuts",
+                "text2" : "Adipiscing bibendum est ultricies integer quis auctor elit. Eget nunc scelerisque viverra mauris in. Volutpat est velit egestas dui id. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Nulla pharetra diam sit amet nisl. Lorem ipsum dolor sit amet consectetur adipiscing elit. Tempus quam pellentesque nec nam aliquam sem et. Nunc"
+            },
+            "homeCenterDivImg" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/look-from-women-sitting-bed-with-white-tulips_8353-5489.jpg"
+           },
+
+           "homeImage" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/hghg-min.jpg",
+           "homeImageDiv" : {
+                "text1" : "CURLY HAIR SALON",
+                "text2" : "Book Your Appointment"
+            },
+           "homeImageDivBtn" : "BOOK NOW"
+
+          
+        },
+        "AboutSalon" : {
+            "aboutFirstDiv" : {
+                "aboutFirstDivImg" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/tender-girl-black-retro-underwear-smiling-looking-down-pink-wall_176420-8643.jpg",
+                "aboutFirstDivText" : {
+                    "text1" : "Beautiful Curls Start Here",
+                    "text2" : "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat."
+                },
+                "aboutFirstDivBtn" : "LEARN MORE"
+            },
+
+            "aboutUsers" : {
+                "text" : "What’s Your Curl Pattern?",
+                "p" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "aboutUser1" : {
+                    "aboutUser1Img" : "https://img.freepik.com/premium-photo/portrait-smiling-young-woman-standing-land_1048944-21192704.jpg?w=360",
+                    "aboutUser1ImgBtn" : "LOOSE CURLS"
+                },
+                "aboutUser2" : {
+                    "aboutUser2Img" : "https://img.freepik.com/free-photo/high-angle-gorgeous-woman-outdoors-sun_23-2148803630.jpg?t=st=1718459893~exp=1718463493~hmac=b56b469652172efdab2cd050966d1609b577d28d8d51e51f4d565b50cc55fcf2&w=360",
+                    "aboutUser2ImgBtn" : "SPIRAL"
+                },
+                "aboutUser3" : {
+                    "aboutUser3Img" : "https://img.freepik.com/free-photo/medium-shot-happy-girl-with-yellow-background_23-2148311296.jpg?t=st=1718459908~exp=1718463508~hmac=8fb2f4d3bd89c8a817289a7cf3d10084a91a89281234c9a8a9daf391d802a50f&w=740",
+                    "aboutUser3ImgBtn" : "TIGHT"
+                },
+                "aboutUser4" : {
+                    "aboutUser4Img" : "https://img.freepik.com/premium-photo/portrait-beautiful-young-woman-white-clothes-alley-city_690432-1471.jpg?w=360",
+                    "aboutUser4ImgBtn" : "COILY"
+                }
+            },
+
+            "aboutInfo" : {
+                "aboutInfoText" : {
+                    "text1" : "Tight Curls",
+                    "text2" : "Vivamus arcu felis bibendum ut tristique et. Habitant morbi tristique senectus et netus et malesuada fames. Sapien eget mi proin sed libero enim sed."
+                },
+                "aboutInfoimg" : "https://realhaironline.com/cdn/shop/products/123.jpg?v=1711025819",
+                "aboutInfoBtn" : "LEARN MORE"
+            },
+
+            "aboutUsersMetod" : {
+                "aboutUsersMetodImg1" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/1.jpg",
+                "aboutUsersMetodImg2" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/4.jpg",
+                "aboutUsersMetodImg3" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/2.jpg",
+                "aboutUsersMetodText" : {
+                    "text1" : "Curly Method",
+                    "text2" : "Nunc mi ipsum faucibus vitae aliquet. Pellentesque elit eget gravida cum sociis natoque penatibus. Urna duis convallis convallis tellus id interdum velit. Proin sed libero enim sed faucibus turpis in. Mauris nunc congue nisi vitae suscipit tellus. Pellentesque habitant morbi tristique senectus et netus et. Non consectetur a erat nam at lectus. Nunc consequat interdum varius sit amet mattis vulputate enim."
+                },
+                "aboutUsersMetodBtn" : "LEARN MORE"
+            },
+
+            "aboutNews" : {
+                "News1" : {
+                    "News1Img" : "https://img.freepik.com/free-photo/portrait-man-standing-amusement-park-looking-camera_23-2148193980.jpg?t=st=1718464876~exp=1718468476~hmac=c64604d0d159862a7dd7f176ef3c04f7d391ce87f42f0ff1ac0a7b2e4a15a761&w=360",
+                    "News1Text" : {
+                        "text1" : "ABOUT US",
+                        "text2" : "A Guide to Wash-n-go’s",
+                        "text3" : "Sample text. Click to select the text box. Click again or double click to start editing the text."
+                    }
+                },
+                "News2": {
+                    "News2Text" : {
+                        "text1" : "COMMUNITY",
+                        "text2" : "Beauty and Identity",
+                        "text3" : "Sample text. Click to select the text box. Click again or double click to start editing the text."
+                    }
+                },
+                "News3":{
+                    "News3Img" : "https://img.freepik.com/free-photo/smiling-young-woman-with-long-blonde-hair-standing-blue-backdrop_23-2148193860.jpg?t=st=1718464887~exp=1718468487~hmac=78d5f6c70dbdf8fe76958f23ab3af4fb014555b1a7145d043548d73311788148&w=360",
+                    "News3Text" : {
+                        "text1" : "NEWS",
+                        "text2" : "Get the Hair Rules Experience",
+                        "text3" : "Sample text. Click to select the text box. Click again or double click to start editing the text."
+                    }
+                },
+                "News4": {
+                    "News4Text" : {
+                        "text1" : "NEWS",
+                        "text2" :"Products for every texture", 
+                        "text3" : "Sample text. Click to select the text box. Click again or double click to start editing the text."
+                    }
+                }
+            },
+
+            "History" : {
+                "HistoryText" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "HistoryBtn" : "LEARN MORE",
+                "HistoryTitle" : "History",
+                "HistoryImg" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/woman-getting-treatment-hairdres.jpg"
+            }
+
+
+            
+        },
+        "OurPortfolio": {
+            "firstImg" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/portrait-beautiful-african-woman.jpg",
+    "firstItemText" : ["What We Do" , "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur sint occaecat cupidatat non proident.", "Image from", "LEARN More"],
+    "firstBtn" : "LEARN MORE",
+
+    "text2": ["Haircuts & Styling", "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."],
+    "btn": "BOOK NOW",
+
+    "btnInfo1": {
+       "titleBtn1" :"CURLY HAIRCUT",
+       "textBtn1" : "A dry haircutting technique that is 100% catered to the curly type(s) of each individual client. We ask that you come to the salon with your hair styled so that your stylist can create your desired hair style and shape right before your eyes! This service includes a wash and style.",
+       "listTitle": "Pricing varies based on stylist:",
+       "list" : {
+            "one" : "- Adult ($70-$110)+ ", 
+            "two" : "- Teen 13-17 y/o ($65-95)+ ",
+            "tree" : "- Child 5-12 y/o ($60-$90)+ ",
+            "for" : "- Toddler 1-4 y/o ($40-$55)+"
+       }
+    },
+    "btnInfo2": {
+       "titleBtn2" :"CURLY TRAINING",
+       "textBtn2": "Answer. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur id suscipit ex. Suspendisse rhoncus laoreet purus quis elementum. Phasellus sed efficitur dolor, et ultricies sapien. Quisque fringilla sit amet dolor commodo efficitur. Aliquam et sem odio. In ullamcorper nisi nunc, et molestie ipsum iaculis sit amet."
+    },
+    "btnInfo3": {
+       "titleBtn3" :"CURLY STYLING",
+       "textBtn3" : "Answer. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur id suscipit ex. Suspendisse rhoncus laoreet purus quis elementum. Phasellus sed efficitur dolor, et ultricies sapien. Quisque fringilla sit amet dolor commodo efficitur. Aliquam et sem odio. In ullamcorper nisi nunc, et molestie ipsum iaculis sit amet."
+    },
+
+
+    "portfolio" : {
+        "portfolioText" : "Style Portfolio",
+        "users" : {
+            "user1" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/3534.jpg",
+            "user2" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/4.jpg",
+            "user3" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/2.jpg",
+            "user4" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/5646.jpg",
+            "user5" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/portrait-handsome-african-man_176420-12621.jpg",
+            "user6" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/1.jpg",
+            "user7" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/hair-4.jpg",
+            "user8" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/hair-3.jpg",
+            "user9" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/hair-2.jpg"
+        } 
+    }
+        },
+        "ContactUs" : {
+            "contactUsImg" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/1.jpg",
+            "contactUsImgDivText" : "Your curl journey is about to begin!",
+            "contactUsImgDivBtn" : "BOOK NOW",
+
+            "contactUsTimeDiv" : {
+                "contactUsTimeDivText" : {
+                    "h1" : "Hours of Operation",
+                    "p1" : "Monday Closed",
+                    "p2" : "Tuesday 9AM Last Appointment 8PM",
+                    "p3" : "Wednesday 9AM Last Appointment 8PM",
+                    "p4" : "Thursday 9AM Last Appointment 8PM",
+                    "p5" : "Friday 9AM Last Appointment 8PM",
+                    "p6" : "Saturday 8AM Last Appointment 7PM",
+                    "p7" : "Sunday 9AM Last Appointment 4PM"
+                },
+                "contactUsTimeDivBtn" : "BOOK NOW",
+                "contactUsTimeDivImg" : "https://img.freepik.com/premium-photo/young-man-with-beard-isolated-keeping-arms-crossed-frontal-position_1368-65212.jpg?w=740"
+            },
+
+            "contactUsStyleList" : {
+                "StylistUser1" : {
+                    "StylistUser1Img" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/1354.jpg",
+                    "StylistUser1Text" : {
+                        "h2" : "Luvena Brown",
+                        "p1" : "Curly Haircut Adult $100+",
+                        "p2" : "Curly Haircut Teenager $95+",
+                        "p3" : "Curly Haircut Child (5-12 years old) $90+",
+                        "p4" : "Curly Haircut Baby (1-4 years old) $55+"
+                    }
+                    
+                },
+                "StylistUser2" : {
+                    "StylistUser2Img" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/hair-2.jpg",
+                    "StylistUser2Text" : {
+                        "h2" : "Susie Spain",
+                        "p1" : "Curly Haircut Adult $90+",
+                        "p2" : "Curly Haircut Teenager $85+",
+                        "p3" : "Top Highlight $90+",
+                        "p4" : "Partial Highlight $150+",
+                        "p5" : "Full Highlight $200+"
+                    } 
+                },
+                "StylistUser3" : {
+                    "StylistUser3Img" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/5467890.jpg",
+                    "StylistUser3Text" : {
+                        "h2" : "Bob Gatison",
+                        "p1" : "Curly Haircut Adult $80+",
+                        "p2" : "Curly Haircut Teenager $75+",
+                        "p3" : "Curly Haircut Child (5-12 years old) $70+",
+                        "p4" : "Curly Haircut Baby (1-4 years old) $45+ "
+                    }
+                }
+            }
+        }
+    },
+    "firstImg" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/portrait-beautiful-african-woman.jpg",
+    "firstItemText" : {
+        "text1" : "What We Do",
+        "text2" : "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur sint occaecat cupidatat non proident.",
+        "btn" : "LEARN MORE"
+    },
+   
+    "text2":{
+        "title" : "Haircuts & Styling",
+        "p" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "btn": "BOOK NOW"
+    },
+
+    "btnInfo1": {
+       "titleBtn1" :"CURLY HAIRCUT",
+       "textBtn1" : "A dry haircutting technique that is 100% catered to the curly type(s) of each individual client. We ask that you come to the salon with your hair styled so that your stylist can create your desired hair style and shape right before your eyes! This service includes a wash and style.",
+       "listTitle": "Pricing varies based on stylist:",
+       "list" : {
+            "one" : "- Adult ($70-$110)+ ", 
+            "two" : "- Teen 13-17 y/o ($65-95)+ ",
+            "tree" : "- Child 5-12 y/o ($60-$90)+ ",
+            "for" : "- Toddler 1-4 y/o ($40-$55)+"
+       }
+    },
+    "btnInfo2": {
+       "titleBtn2" :"CURLY TRAINING",
+       "textBtn2": "Answer. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur id suscipit ex. Suspendisse rhoncus laoreet purus quis elementum. Phasellus sed efficitur dolor, et ultricies sapien. Quisque fringilla sit amet dolor commodo efficitur. Aliquam et sem odio. In ullamcorper nisi nunc, et molestie ipsum iaculis sit amet."
+    },
+    "btnInfo3": {
+       "titleBtn3" :"CURLY STYLING",
+       "textBtn3" : "Answer. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur id suscipit ex. Suspendisse rhoncus laoreet purus quis elementum. Phasellus sed efficitur dolor, et ultricies sapien. Quisque fringilla sit amet dolor commodo efficitur. Aliquam et sem odio. In ullamcorper nisi nunc, et molestie ipsum iaculis sit amet."
+    },
+
+
+    "portfolio" : {
+        "portfolioText" : "Style Portfolio",
+        "users" : {
+            "user1" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/3534.jpg",
+            "user2" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/4.jpg",
+            "user3" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/2.jpg",
+            "user4" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/5646.jpg",
+            "user5" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/portrait-handsome-african-man_176420-12621.jpg",
+            "user6" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/1.jpg",
+            "user7" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/hair-4.jpg",
+            "user8" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/hair-3.jpg",
+            "user9" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/hair-2.jpg"
+        } 
+    },
+
+    "contact" : {
+        "img" : "https://img.freepik.com/free-photo/stylish-confident-businesswoman-smiling_176420-19466.jpg?t=st=1718297658~exp=1718301258~hmac=e633474cc907a3eb91ca7e9ed8d4e2e43f353356249660807708d8ff8f8bb99f&w=740",
+        "str" : "Contact Us",
+        "input1": {
+            "type1" : "Name",
+            "placeholder1" : "Enter your Name"
+        },
+        "input2": {
+            "type2" : "Email",
+            "placeholder2" : "Enter a valid email address"
+        },
+        "input3" : {
+            "type3" : "Massage"
+        },
+
+        "submit" : "submit",
+
+        "call" : {
+            "callText" : " CALL US",
+            "phones" : {
+                "phone1" : "1 (234) 567-891",
+                "phone2" : "1 (234) 987-654"
+            }
+        },
+        "location" : {
+            "locatilonText" : "LOCATION",
+            "links" : "121 Rock Sreet, 21 Avenue, New York, NY 92103-9000"
+        },
+        "hours" : {
+            "hoursText" : "HOURS",
+            "hoursData" : "Mon  Fri …… 11 am 8 pm, Sat, Sun  …… 6 am  8 pm"
+        },
+
+        "footer" : {
+            "footerText" : "Sample text. Click to select the text box. Click again or double click to start editing the text.",
+            "footerLink" : "Template created with Website Builder Software."
+        }
+
+        
+}
+}

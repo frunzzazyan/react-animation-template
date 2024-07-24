@@ -1,0 +1,375 @@
+{
+  
+    "title" : "լոգո",
+    "menu" : {
+        "li1" : "տուն",
+        "li2" : "Սալոնի մասին",
+        "li3" : "Մեր պորտֆոլիոն",
+        "li4" : "Կապ մեզ հետ",
+        "Home" : {
+            "homeFirstText" : {
+                "text1" : "ԲԱՐԻ ԳԱԼՈՒՍՏ",
+                "text2" : "Շքեղ գանգուր վարսավիրանոց",
+                "text3" : "Եկեք խմենք գարեջուրը, որ տխուր ու տխուր լինենք։ Նրանք ապրում են ծերության մեջ, իսկ նրանց երեխաները հիվանդ են ու սոված։ Ինձ իմաստություն է պետք, բայց ազատի համար։"
+
+            },
+            "homeFirstbtn" : "Իմացեք ԱՎԵԼԻՆ",
+            "homeFirstImg" : "https://i.pinimg.com/474x/4a/95/42/4a954246b17a9ebcfa2424bbf1b1e89f.jpg",
+
+            "homeitems" : {
+                "item1" : {
+                    "item1Text" : "Մազերի պրոֆեսիոնալ խորհրդատվություն",
+                    "item1Img" : "https://images.pexels.com/photos/2787341/pexels-photo-2787341.jpeg?cs=srgb&dl=pexels-alipazani-2787341.jpg&fm=jpg"
+                },
+                "item2" : {
+                    "item2Text" : "Գանգուր մազերը ամենագեղեցիկն են"
+                },
+                "item3":{
+                    "item3Img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfBNqQiUOfbPw3m_t5RLhw5M87r_1J9EIYqg&s"
+                },
+                "item4" : {
+                    "item4Img" : "https://c.stocksy.com/a/kWE000/z9/55846.jpg"
+                },
+                "item5":{
+                    "item5Text" : "Գանգուր մազերի խոնավեցման միջոցներ",
+                    "item5btn" : "Իմացեք ԱՎԵԼԻՆ"
+                },
+                "item6" : {
+                    "item6Text" : "Հետևաբար, մեր հաճախորդներին մենք միշտ առաջին հերթին առաջարկում ենք խորհրդատվություն, որպեսզի կարողանանք պարզել, թե ինչպիսի նախկին փորձ են նրանք ունեցել:",
+                    "item6Img" : "https://as1.ftcdn.net/v2/jpg/04/41/63/50/1000_F_441635065_zrbydo86geu6GAIOxfxoF83YkiSLeuCq.jpg"
+                }
+            },
+
+            "animationDiv" : {
+                "animationDivText" : {
+                         "text1" : "Ինչու՞ են գանգուր մազերը այդքան առանձնահատուկ:",
+                         "text2" : "Ultricies Leo անձեռնմխելի malesuada հիմա կամ ժպտացեք կոմոդոր մուլտֆիլմի maecenas. Lobortis տարր nibh land molestie այլեւս. Բեռնատարներ խմելու համար"
+                },
+                "animationDivbtn" : "Իմացեք ԱՎԵԼԻՆ"
+            },
+
+            "homeUsersInfo" : {
+                "firstUserImg" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/portrait-beautiful-african-woman.jpg",
+                "firstUserText" : {
+                    "text1" : "Հեշտ գանգուր աղջկա մեթոդ սկսնակների համար",
+                    "text2" : "Մի՛ զայրացիր ցավից հանդիմանության մեջ այն հաճույքի մեջ, որ ուզում է մազ լինել ցավից այն հույսով, որ բուծում չկա։ Քանի դեռ նրանք կուրացած չեն ցանկության պատճառով, նրանք մեղավոր չեն, ովքեր թողնում են իրենց պարտականությունները և փափկացնում են իրենց սրտերը, այսինքն՝ իրենց աշխատանքը."
+                },
+                "homeUserBtn" : "Իմացեք ԱՎԵԼԻՆ",
+                "userItem1Img" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/5467890.jpg",
+                "userItem2Img" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/hair-2.jpg",
+                "userItem3Img" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/1354.jpg"
+            },
+
+            "miniDivItems" : {
+                "miniDiv1" : {
+                    "miniDiv1Img1" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/look-from-women-sitting-bed-with-white-tulips_8353-5489.jpg",
+                    "miniDiv1Text" : "Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida Բժիշկն ու հեղինակը չեն գովազդում. Հիմա խմորի մեջ շատ բուրմունք ունենք։ Որոշ փափուկ վեբ պորտալներ, ինչպիսիք են ավիաընկերությունների ժամանակացույցը: Որպեսզի խաղացողները դեռ խաղի մեջ լինեն։",
+                    "miniDiv1Img2" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/gffggf.jpg"
+                },
+                "miniDiv2" : {
+                    "miniDiv2Text1" : "Մեր գանգուր մազերի գույնը",
+                    "miniDiv2Img" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/h.jpg",
+                    "miniDiv2Text2" : "Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida Բժիշկն ու հեղինակը չեն գովազդում. Հիմա խմորի մեջ շատ բուրմունք ունենք։ Որոշ փափուկ վեբ պորտալներ, ինչպիսիք են ավիաընկերությունների ժամանակացույցը: Որպեսզի խաղացողները դեռ խաղի մեջ լինեն։"
+                }
+            },
+
+           "homeCenterDiv" : {
+            "homeCenterDivText" : {
+                "text1" : "Մեր գանգուր սանրվածքները",
+                "text2" : "Պետք է խմել ամբողջը, ով պատասխանատու է զարգացման համար։ Այժմ նրան պետք է շոկոլադե մուլտֆիլմ։ Հաճելի է, որ Աստված կամենա։ Վիվերան կախել էր կյանքի ուժն ու կրիան՝ մաքուր կոկորդը զարդարելու համար։ Բակում խարույկ չկա։ Հաճախորդը պետք է կարողանա հետևել հաճախորդների սպասարկմանը: Ժամանակն է, որ երեխաները մի քիչ աղցան ունենան: Հիմա"
+            },
+            "homeCenterDivImg" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/look-from-women-sitting-bed-with-white-tulips_8353-5489.jpg"
+           },
+
+           "homeImage" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/hghg-min.jpg",
+           "homeImageDiv" : {
+                "text1" : "ԳԱՆԳԱՐՆԵՐ ՄԱՐԶԵՐԻ ՍՐԱՀ",
+                "text2" : "Ամրագրեք Ձեր նշանակումը"
+            },
+           "homeImageDivBtn" : "ԱՄՐԱԳՐԵԼ ՀԻՄԱ"
+
+          
+        },
+        "AboutSalon" : {
+            "aboutFirstDiv" : {
+                "aboutFirstDivImg" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/tender-girl-black-retro-underwear-smiling-looking-down-pink-wall_176420-8643.jpg",
+                "aboutFirstDivText" : {
+                    "text1" : "Գեղեցիկ գանգուրները սկսվում են այստեղից",
+                    "text2" : "Duis aureur irrure ցավը հանդիմանում է հաճույքի մեջ, նա ցանկանում է ցավի մազ լինել eu փախչում է ոչ մի զուգավորում, քանի դեռ դրանք չեն մթնել:"
+                },
+                "aboutFirstDivBtn" : "Իմացեք ԱՎԵԼԻՆ"
+            },
+
+            "aboutUsers" : {
+                "text" : "Ո՞րն է ձեր գանգրացման նախշը:",
+                "p" : "Կարևոր է հոգ տանել հիվանդի մասին, հետևել հիվանդին, բայց դա տեղի կունենա այնպիսի ժամանակ, որ աշխատանքն ու ցավը շատ լինեն։",
+                "aboutUser1" : {
+                    "aboutUser1Img" : "https://img.freepik.com/premium-photo/portrait-smiling-young-woman-standing-land_1048944-21192704.jpg?w=360",
+                    "aboutUser1ImgBtn" : "ԱՆՑԱԾ Գանգուրներ"
+                },
+                "aboutUser2" : {
+                    "aboutUser2Img" : "https://img.freepik.com/free-photo/high-angle-gorgeous-woman-outdoors-sun_23-2148803630.jpg?t=st=1718459893~exp=1718463493~hmac=b56b469652172efdab2cd050966d1609b577d28d8d51e51f4d565b50cc55fcf2&w=360",
+                    "aboutUser2ImgBtn" : "ՊԱՐՈՒՅՐ"
+                },
+                "aboutUser3" : {
+                    "aboutUser3Img" : "https://img.freepik.com/free-photo/medium-shot-happy-girl-with-yellow-background_23-2148311296.jpg?t=st=1718459908~exp=1718463508~hmac=8fb2f4d3bd89c8a817289a7cf3d10084a91a89281234c9a8a9daf391d802a50f&w=740",
+                    "aboutUser3ImgBtn" : "պինդ"
+                },
+                "aboutUser4" : {
+                    "aboutUser4Img" : "https://img.freepik.com/premium-photo/portrait-beautiful-young-woman-white-clothes-alley-city_690432-1471.jpg?w=360",
+                    "aboutUser4ImgBtn" : "ԿՈԼՈՐ"
+                }
+            },
+
+            "aboutInfo" : {
+                "aboutInfoText" : {
+                    "text1" : "Ձիգ գանգուրներ",
+                    "text2" : "Եկեք խմենք գարեջուրը, որ տխուր ու տխուր լինենք։ Նրանք ապրում են ծերության մեջ, իսկ նրանց երեխաները հիվանդ են ու սոված։ Ինձ իմաստություն է պետք, բայց ազատի համար։"
+                },
+                "aboutInfoimg" : "https://realhaironline.com/cdn/shop/products/123.jpg?v=1711025819",
+                "aboutInfoBtn" : "Իմացեք ԱՎԵԼԻՆ"
+            },
+
+            "aboutUsersMetod" : {
+                "aboutUsersMetodImg1" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/1.jpg",
+                "aboutUsersMetodImg2" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/4.jpg",
+                "aboutUsersMetodImg3" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/2.jpg",
+                "aboutUsersMetodText" : {
+                    "text1" : "Գանգուր մեթոդ",
+                    "text2" : "Հիմա իմ կոկորդը կյանքով է լցված։ Երեխաներին անհրաժեշտ են հղի կանայք, ովքեր ունեն ծննդաբերած զուգընկերներ: Urna duis convallis convallis terus երբեմն դա ցանկանում է: Բայց անվճար, բայց կոկորդի համար դա տգեղ է: Մաուրիսն այժմ պատրաստվում է կյանքին: Երեխաներն ապրում են ծերության մեջ և թոռները: Այն չի հետևվի անկողնու համար: Այժմ արդյունքը երբեմն տարբերվում է անշարժ գույքի գործակալի համար:"
+                },
+                "aboutUsersMetodBtn" : "Իմացեք ԱՎԵԼԻՆ"
+            },
+
+            "aboutNews" : {
+                "News1" : {
+                    "News1Img" : "https://img.freepik.com/free-photo/portrait-man-standing-amusement-park-looking-camera_23-2148193980.jpg?t=st=1718464876~exp=1718468476~hmac=c64604d0d159862a7dd7f176ef3c04f7d391ce87f42f0ff1ac0a7b2e4a15a761&w=360",
+                    "News1Text" : {
+                        "text1" : "ՄԵՐ ՄԱՍԻՆ",
+                        "text2" : "Wash-n-go's-ի ուղեցույց",
+                        "text3" : "Տեքստի նմուշ. Սեղմեք՝ տեքստային տուփը ընտրելու համար: Կրկին սեղմեք կամ կրկնակի սեղմեք՝ տեքստի խմբագրումը սկսելու համար:"
+                    }
+                },
+                "News2": {
+                    "News2Text" : {
+                        "text1" : "ՀԱՄԱՅՆՔ",
+                        "text2" : "Գեղեցկություն և ինքնություն",
+                        "text3" : "Տեքստի նմուշ. Սեղմեք՝ տեքստային տուփը ընտրելու համար: Կրկին սեղմեք կամ կրկնակի սեղմեք՝ տեքստի խմբագրումը սկսելու համար:"
+                    }
+                },
+                "News3":{
+                    "News3Img" : "https://img.freepik.com/free-photo/smiling-young-woman-with-long-blonde-hair-standing-blue-backdrop_23-2148193860.jpg?t=st=1718464887~exp=1718468487~hmac=78d5f6c70dbdf8fe76958f23ab3af4fb014555b1a7145d043548d73311788148&w=360",
+                    "News3Text" : {
+                        "text1" : "ԼՈՒՐԵՐ",
+                        "text2" : "Ստացեք մազերի կանոնների փորձը",
+                        "text3" : "Տեքստի նմուշ. Սեղմեք՝ տեքստային տուփը ընտրելու համար: Կրկին սեղմեք կամ կրկնակի սեղմեք՝ տեքստի խմբագրումը սկսելու համար:"
+                    }
+                },
+                "News4": {
+                    "News4Text" : {
+                        "text1" : "ԼՈՒՐԵՐ",
+                        "text2" :"Ապրանքներ յուրաքանչյուր հյուսվածքի համար", 
+                        "text3" : "Տեքստի նմուշ. Սեղմեք՝ տեքստային տուփը ընտրելու համար: Կրկին սեղմեք կամ կրկնակի սեղմեք՝ տեքստի խմբագրումը սկսելու համար:"
+                    }
+                }
+            },
+
+            "History" : {
+                "HistoryText" : "Կարևոր է հոգ տանել հիվանդի մասին, հետևել հիվանդին, բայց դա տեղի կունենա այնպիսի ժամանակ, որ աշխատանքն ու ցավը շատ լինեն։ Ամենափոքր մանրուքին հասնելու համար ոչ ոք չպետք է զբաղվի որևէ աշխատանքով, եթե դրանից որևէ օգուտ չքաղի:",
+                "HistoryBtn" : "Իմացեք ԱՎԵԼԻՆ",
+                "HistoryTitle" : "Պատմություն",
+                "HistoryImg" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/woman-getting-treatment-hairdres.jpg"
+            }
+
+
+            
+        },
+        "OurPortfolio": {
+            "firstImg" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/portrait-beautiful-african-woman.jpg",
+    "firstBtn" : "Իմացեք ԱՎԵԼԻՆ",
+
+    "text2": ["Սանրվածքներ և ոճավորում", "Կարևոր է հոգ տանել հիվանդի մասին, հետևել հիվանդին, բայց դա տեղի կունենա այնպիսի ժամանակ, որ աշխատանքն ու ցավը շատ լինեն։ Ամենափոքր մանրուքին հասնելու համար ոչ ոք չպետք է զբաղվի որևէ աշխատանքով, եթե դրանից որևէ օգուտ չքաղի:"],
+    "btn": "ԱՄՐԱԳՐԵԼ ՀԻՄԱ",
+
+    "btnInfo1": {
+       "titleBtn1" :"ԳԱՆԳԱՐ ՄԱՐԶԵՐ",
+       "textBtn1" : "Չոր սանրվածքի տեխնիկա, որը 100%-ով համապատասխանում է յուրաքանչյուր հաճախորդի գանգուր տեսակին: Խնդրում ենք, որ սրահ գաք հարդարված վարսերով, որպեսզի ձեր ոճաբանը կարողանա ստեղծել ձեր ուզած մազերի ոճն ու ձևը հենց ձեր աչքի առաջ: Այս ծառայությունը ներառում է լվացում և ոճավորում:",
+       "listTitle": "Գինը տատանվում է՝ կախված ոճաբանից.",
+       "list" : {
+            "one" : "- Մեծահասակներ ($70-$110)+ ", 
+            "two" : "- 13-17 տարեկան դեռահասներ (65-95 դոլար)+ ",
+            "tree" : "- 5-12 տարեկան երեխա (60-90 դոլար)+ ",
+            "for" : "- Փոքր երեխա 1-4 տարեկան ($40-$55)+"
+       }
+    },
+    "btnInfo2": {
+       "titleBtn2" :"ԳԱՆԳՐԱՅԻՆ ՈՒՍՈՒՑՈՒՄ",
+       "textBtn2": "Պատասխանել. Հաճախորդը շատ կարևոր է, հաճախորդին հետևելու է հաճախորդը։ Chatterbox-ը հանում է այն: Suspendisse rhoncus laoreet purus quis elementum. Բայց նավակը պատրաստված է ցավից, և ողորմության իմաստությունը: Յուրաքանչյուրը պետք է կարողանա այն օգտագործել իր օգտին։ Ես նույնպես ատում եմ աղցանը: Եզրակացությունում, բացառությամբ հիմա, և հենց աշխատողը թիրախ կդառնա։"
+    },
+    "btnInfo3": {
+       "titleBtn3" :"ԳԱՆԳՐՈՎ ՍԹԱՅԼԻՆԳ",
+       "textBtn3" : "Պատասխանել. Հաճախորդը շատ կարևոր է, հաճախորդին հետևելու է հաճախորդը։ Chatterbox-ը հանում է այն: Suspendisse rhoncus laoreet purus quis elementum. Բայց նավակը պատրաստված է ցավից, և ողորմության իմաստությունը: Յուրաքանչյուրը պետք է կարողանա այն օգտագործել իր օգտին։ Ես նույնպես ատում եմ աղցանը: Եզրակացությունում, բացառությամբ հիմա, և հենց աշխատողը թիրախ կդառնա։"
+    },
+
+
+    "portfolio" : {
+        "portfolioText" : "Style Portfolio",
+        "users" : {
+            "user1" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/3534.jpg",
+            "user2" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/4.jpg",
+            "user3" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/2.jpg",
+            "user4" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/5646.jpg",
+            "user5" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/portrait-handsome-african-man_176420-12621.jpg",
+            "user6" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/1.jpg",
+            "user7" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/hair-4.jpg",
+            "user8" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/hair-3.jpg",
+            "user9" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/hair-2.jpg"
+        } 
+    }
+        },
+        "ContactUs" : {
+            "contactUsImg" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/1.jpg",
+            "contactUsImgDivText" : "Ձեր գանգուր ճամփորդությունը շուտով կսկսվի:",
+            "contactUsImgDivBtn" : "ԱՄՐԱԳՐԵԼ ՀԻՄԱ",
+
+            "contactUsTimeDiv" : {
+                "contactUsTimeDivText" : {
+                    "h1" : "Աշխատանքային ժամեր",
+                    "p1" : "Երկուշաբթի Փակ",
+                    "p2" : "Երեքշաբթի 9:00 Վերջին հանդիպում 20:00",
+                    "p3" : "Չորեքշաբթի 9:00 Վերջին հանդիպում 20:00",
+                    "p4" : "Հինգշաբթի ժամը 9:00 Վերջին հանդիպում 20:00",
+                    "p5" : "Ուրբաթ 9:00 Վերջին ժամադրություն 20:00",
+                    "p6" : "Շաբաթ 8:00 Վերջին ժամադրություն 19:00",
+                    "p7" : "Կիրակի առավոտյան 9-ին Վերջին հանդիպում 16:00-ին"
+                },
+                "contactUsTimeDivBtn" : "ԱՄՐԱԳՐԵԼ ՀԻՄԱ",
+                "contactUsTimeDivImg" : "https://img.freepik.com/premium-photo/young-man-with-beard-isolated-keeping-arms-crossed-frontal-position_1368-65212.jpg?w=740"
+            },
+
+            "contactUsStyleList" : {
+                "StylistUser1" : {
+                    "StylistUser1Img" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/1354.jpg",
+                    "StylistUser1Text" : {
+                        "h2" : "Լուվենա Բրաուն",
+                        "p1" : "Մեծահասակների գանգուր սանրվածքը $100+",
+                        "p2" : "Գանգուր սանրվածքը դեռահաս $95+",
+                        "p3" : "Գանգուր սանրվածք Մանկական (5-12 տարեկան) $90+",
+                        "p4" : "Գանգուր սանրվածք Մանկական (1-4 տարեկան) $55+"
+                    }
+                    
+                },
+                "StylistUser2" : {
+                    "StylistUser2Img" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/hair-2.jpg",
+                    "StylistUser2Text" : {
+                        "h2" : "Սյուզի Իսպանիա",
+                        "p1" : "Մեծահասակների գանգուր սանրվածքը $90+",
+                        "p2" : "Գանգուր սանրվածքը դեռահաս $85+",
+                        "p3" : "Լավագույն ընդգծում $90+",
+                        "p4" : "Մասնակի ընդգծում $150+",
+                        "p5" : "Full Highlight $200+"
+                    } 
+                },
+                "StylistUser3" : {
+                    "StylistUser3Img" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/5467890.jpg",
+                    "StylistUser3Text" : {
+                        "h2" : "Բոբ Գեթիսոն",
+                        "p1" : "Մեծահասակների գանգուր սանրվածքը $80+",
+                        "p2" : "Գանգուր սանրվածքը դեռահաս $75+",
+                        "p3" : "Գանգուր սանրվածք Մանկական (5-12 տարեկան) $70+",
+                        "p4" : "Գանգուր սանրվածք Մանկական (5-12 տարեկան) $70+"
+                    }
+                }
+            }
+        }
+    },
+    "firstImg" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/portrait-beautiful-african-woman.jpg",
+    "firstItemText" : {
+        "text1" : "Ինչ մենք ենք անում",
+        "text2" : "Կասկածներ խիստ irrure ցավը ցենզերի մեջ հաճույքով նա ուզում է լինել մի մազ ցավ eu փախչում է չկա բուծում նրանք կուրացած են ցանկությամբ նրանք դուրս չեն գալիս:",
+        "btn" : "Իմացեք ԱՎԵԼԻՆ"
+    },
+   
+    "text2":{
+        "title" : "Սանրվածքներ և ոճավորում",
+        "p" : "Կարևոր է հոգ տանել հիվանդի մասին, հետևել հիվանդին, բայց միևնույն ժամանակ դրանք առաջանում են որպես շատ աշխատանք և ցավ։ Ամենափոքր մանրուքին հասնելու համար ոչ ոք չպետք է զբաղվի որևէ տեսակի աշխատանքով, եթե դրանից որևէ օգուտ չքաղի:",
+        "btn": "ԱՄՐԱԳՐԵԼ ՀԻՄԱ"
+    },
+
+    "btnInfo1": {
+       "titleBtn1" :"ԱՄՐԱԳՐԵԼ ՀԻՄԱ",
+       "textBtn1" : "Չոր սանրվածքի տեխնիկա, որը 100%-ով համապատասխանում է յուրաքանչյուր հաճախորդի գանգուր տեսակին: Խնդրում ենք, որ սրահ գաք հարդարված վարսերով, որպեսզի ձեր ոճաբանը կարողանա ստեղծել ձեր ուզած մազերի ոճն ու ձևը հենց ձեր աչքի առաջ: Այս ծառայությունը ներառում է լվացում և ոճավորում:",
+       "listTitle": "Գինը տատանվում է՝ կախված ոճաբանից.",
+       "list" : {
+            "one" : "- Մեծահասակներ ($70-$110)+ ", 
+            "two" : "- 13-17 տարեկան դեռահասներ (65-95 դոլար)+ ",
+            "tree" : "- 5-12 տարեկան երեխա (60-90 դոլար)+ ",
+            "for" : "- Փոքր երեխա 1-4 տարեկան ($40-$55)+"
+       }
+    },
+    "btnInfo2": {
+       "titleBtn2" :"ԳԱՆԳՐԱՅԻՆ ՈՒՍՈՒՑՈՒՄ",
+       "textBtn2": "Պատասխանել. Հաճախորդը շատ կարևոր է, հաճախորդին հետևելու է հաճախորդը։ Chatterbox-ը հանում է այն: Suspendisse rhoncus laoreet purus quis elementum. Բայց նավակը պատրաստված է ցավից, և ողորմության իմաստությունը: Յուրաքանչյուրը պետք է կարողանա այն օգտագործել իր օգտին։ Ես նույնպես ատում եմ աղցանը: Եզրակացությունում, բացառությամբ հիմա, և հենց աշխատողը թիրախ կդառնա։"
+    },
+    "btnInfo3": {
+       "titleBtn3" :"ԳԱՆԳՐՈՎ ՍԹԱՅԼԻՆԳ",
+       "textBtn3" : "Պատասխանել. Հաճախորդը շատ կարևոր է, հաճախորդին հետևելու է հաճախորդը։ Chatterbox-ը հանում է այն: Suspendisse rhoncus laoreet purus quis elementum. Բայց նավակը պատրաստված է ցավից, և ողորմության իմաստությունը: Յուրաքանչյուրը պետք է կարողանա այն օգտագործել իր օգտին։ Ես նույնպես ատում եմ աղցանը: Եզրակացությունում, բացառությամբ հիմա, և հենց աշխատողը թիրախ կդառնա։"
+    },
+
+
+    "portfolio" : {
+        "portfolioText" : "Style Portfolio",
+        "users" : {
+            "user1" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/3534.jpg",
+            "user2" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/4.jpg",
+            "user3" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/2.jpg",
+            "user4" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/5646.jpg",
+            "user5" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/portrait-handsome-african-man_176420-12621.jpg",
+            "user6" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/1.jpg",
+            "user7" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/hair-4.jpg",
+            "user8" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/hair-3.jpg",
+            "user9" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/hair-2.jpg"
+        } 
+    },
+
+    "contact" : {
+        "img" : "https://img.freepik.com/free-photo/stylish-confident-businesswoman-smiling_176420-19466.jpg?t=st=1718297658~exp=1718301258~hmac=e633474cc907a3eb91ca7e9ed8d4e2e43f353356249660807708d8ff8f8bb99f&w=740",
+        "str" : "Կապ մեզ հետ",
+        "input1": {
+            "type1" : "Անուն",
+            "placeholder1" : "Մուտքագրեք ձեր անունը"
+        },
+        "input2": {
+            "type2" : "Էլ",
+            "placeholder2" : "Մուտքագրեք վավեր էլփոստի հասցե"
+        },
+        "input3" : {
+            "type3" : "նամակ"
+        },
+
+        "submit" : "Submit",
+
+        "call" : {
+            "callText" : " ԶԱՆԳԱՀԱՐԵՔ ՄԵԶ",
+            "phones" : {
+                "phone1" : "1 (234) 567-891",
+                "phone2" : "1 (234) 987-654"
+            }
+        },
+        "location" : {
+            "locatilonText" : "Գտնվելու վայրը",
+            "links" : "121 Rock Sreet, 21 Avenue, New York, NY 92103-9000"
+        },
+        "hours" : {
+            "hoursText" : "ԺԱՄԵՐ",
+            "hoursData" : "Mon  Fri …… 11 am 8 pm, Sat, Sun  …… 6 am  8 pm"
+        },
+
+        "footer" : {
+            "footerText" : "Տեքստի նմուշ. Սեղմեք՝ տեքստային տուփը ընտրելու համար: Կրկին սեղմեք կամ կրկնակի սեղմեք՝ տեքստի խմբագրումը սկսելու համար:",
+            "footerLink" : "Կաղապար՝ ստեղծված Website Builder Software-ով:"
+        }
+
+        
+}
+}

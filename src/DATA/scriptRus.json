@@ -1,0 +1,376 @@
+{
+  
+    "title" : "логотип",
+    "menu" : {
+        "li1" : "Дом",
+        "li2" : "About Salon",
+        "li3" : "О салоне",
+        "li4" : "Связаться с нами",
+        "Home" : {
+            "homeFirstText" : {
+                "text1" : "ДОБРО ПОЖАЛОВАТЬ",
+                "text2" : "ДОБРО ПОЖАЛОВАТЬРоскошный салон для кудрявых волос",
+                "text3" : "Давайте выпьем пиво, чтобы грустить и грустить. Они живут в старости, а их дети больны и голодны. Мне нужна мудрость, но бесплатная."
+
+            },
+            "homeFirstbtn" : "УЗНАТЬ БОЛЬШЕ",
+            "homeFirstImg" : "https://i.pinimg.com/474x/4a/95/42/4a954246b17a9ebcfa2424bbf1b1e89f.jpg",
+
+            "homeitems" : {
+                "item1" : {
+                    "item1Text" : "Профессиональная консультация по волосам",
+                    "item1Img" : "https://images.pexels.com/photos/2787341/pexels-photo-2787341.jpeg?cs=srgb&dl=pexels-alipazani-2787341.jpg&fm=jpg"
+                },
+                "item2" : {
+                    "item2Text" : "Вьющиеся волосы самые красивые"
+                },
+                "item3":{
+                    "item3Img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfBNqQiUOfbPw3m_t5RLhw5M87r_1J9EIYqg&s"
+                },
+                "item4" : {
+                    "item4Img" : "https://c.stocksy.com/a/kWE000/z9/55846.jpg"
+                },
+                "item5":{
+                    "item5Text" : "Увлажняющие процедуры для вьющихся волос",
+                    "item5btn" : "УЗНАТЬ БОЛЬШЕ"
+                },
+                "item6" : {
+                    "item6Text" : "Поэтому нашим клиентам мы всегда сначала предлагаем консультацию, чтобы иметь возможность установить, какой у них был предыдущий опыт.",
+                    "item6Img" : "https://as1.ftcdn.net/v2/jpg/04/41/63/50/1000_F_441635065_zrbydo86geu6GAIOxfxoF83YkiSLeuCq.jpg"
+                }
+            },
+
+            "animationDiv" : {
+                "animationDivText" : {
+                         "text1" : "Почему вьющиеся волосы такие особенные?",
+                         "text2" : "Ультрициес Лео неповрежденный малесуада сейчас или улыбка коммодора мультяшного мецената. Элемент Лобортиса больше не причиняет вреда земле. Грузовики, чтобы выпить"
+                },
+                "animationDivbtn" : "УЗНАТЬ БОЛЬШЕ"
+            },
+
+            "homeUsersInfo" : {
+                "firstUserImg" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/portrait-beautiful-african-woman.jpg",
+                "firstUserText" : {
+                    "text1" : "Простой метод кудрявой девушки для начинающих",
+                    "text2" : "Не злиться на боль, на выговор, на удовольствие он хочет быть волоском от боли в надежде, что не будет размножения. Если они не ослеплены похотью, они не выступают вперед; виноваты те, кто оставляет свои обязанности и смягчает свои сердца, то есть свои труды;"
+                },
+                "homeUserBtn" : "УЗНАТЬ БОЛЬШЕ",
+                "userItem1Img" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/5467890.jpg",
+                "userItem2Img" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/hair-2.jpg",
+                "userItem3Img" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/1354.jpg"
+            },
+
+            "miniDivItems" : {
+                "miniDiv1" : {
+                    "miniDiv1Img1" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/look-from-women-sitting-bed-with-white-tulips_8353-5489.jpg",
+                    "miniDiv1Text" : "Tincidunt praesent semper feugiat nibh sed pulvinar proin gradida Доктор и автор не афишируют. Теперь у нас есть много вкуса в тесте. Некоторые программные веб-порталы, такие как расписание авиакомпаний. Чтобы игроки все еще были в игре.",
+                    "miniDiv1Img2" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/gffggf.jpg"
+                },
+                "miniDiv2" : {
+                    "miniDiv2Text1" : "Наш цвет вьющихся волос",
+                    "miniDiv2Img" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/h.jpg",
+                    "miniDiv2Text2" : "Tincidunt praesent semper feugiat nibh sed pulvinar proin gradida Доктор и автор не афишируют. Теперь у нас есть много вкуса в тесте. Некоторые программные веб-порталы, такие как расписание авиакомпаний. Чтобы игроки все еще были в игре."
+                }
+            },
+
+           "homeCenterDiv" : {
+            "homeCenterDivText" : {
+                "text1" : "Наши кудрявые стрижки",
+                "text2" : "Необходимо выпить весь тот, кто отвечает за развитие. Теперь ему нужен шоколадный мультик. Это радость, что Бог этого желает. Виверра подвесил силу и черепаху жизни, чтобы украсить чистое горло. Во дворе нет колчана. Клиент должен иметь возможность следить за обслуживанием клиентов. Пришло время детям есть салат. Сейчас"
+            },
+            "homeCenterDivImg" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/look-from-women-sitting-bed-with-white-tulips_8353-5489.jpg"
+           },
+
+           "homeImage" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/hghg-min.jpg",
+           "homeImageDiv" : {
+                "text1" : "КУРЬЯЯ ПАРИКМАХЕРСКАЯ",
+                "text2" : "Запишитесь на прием"
+            },
+           "homeImageDivBtn" : "ЗАБРОНИРУЙТЕ СЕЙЧАС"
+
+          
+        },
+        "AboutSalon" : {
+            "aboutFirstDiv" : {
+                "aboutFirstDivImg" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/tender-girl-black-retro-underwear-smiling-looking-down-pink-wall_176420-8643.jpg",
+                "aboutFirstDivText" : {
+                    "text1" : "Красивые кудри начинаются здесь",
+                    "text2" : "Duis aureur irrure боль в упреках в удовольствии он хочет быть волоском боли, он не избегает спаривания, пока они не потемнеют."
+                },
+                "aboutFirstDivBtn" : "УЗНАТЬ БОЛЬШЕ"
+            },
+
+            "aboutUsers" : {
+                "text" : "Какой у вас рисунок завитков?",
+                "p" : "Важно заботиться о больном, чтобы за ним следили, но это произойдет в такое время, когда будет много работы и боли.",
+                "aboutUser1" : {
+                    "aboutUser1Img" : "https://img.freepik.com/premium-photo/portrait-smiling-young-woman-standing-land_1048944-21192704.jpg?w=360",
+                    "aboutUser1ImgBtn" : "РАСЛАБЛЕННЫЕ КУДРЫ"
+                },
+                "aboutUser2" : {
+                    "aboutUser2Img" : "https://img.freepik.com/free-photo/high-angle-gorgeous-woman-outdoors-sun_23-2148803630.jpg?t=st=1718459893~exp=1718463493~hmac=b56b469652172efdab2cd050966d1609b577d28d8d51e51f4d565b50cc55fcf2&w=360",
+                    "aboutUser2ImgBtn" : "СПИРАЛЬ"
+                },
+                "aboutUser3" : {
+                    "aboutUser3Img" : "https://img.freepik.com/free-photo/medium-shot-happy-girl-with-yellow-background_23-2148311296.jpg?t=st=1718459908~exp=1718463508~hmac=8fb2f4d3bd89c8a817289a7cf3d10084a91a89281234c9a8a9daf391d802a50f&w=740",
+                    "aboutUser3ImgBtn" : "ТУГОЙ"
+                },
+                "aboutUser4" : {
+                    "aboutUser4Img" : "https://img.freepik.com/premium-photo/portrait-beautiful-young-woman-white-clothes-alley-city_690432-1471.jpg?w=360",
+                    "aboutUser4ImgBtn" : "КУЛИНИРОВАННЫЙ"
+                }
+            },
+
+            "aboutInfo" : {
+                "aboutInfoText" : {
+                    "text1" : "Плотные кудри",
+                    "text2" : "Давайте выпьем пиво, чтобы грустить и грустить. Они живут в старости, а их дети больны и голодны. Мне нужна мудрость, но бесплатная."
+                },
+                "aboutInfoimg" : "https://realhaironline.com/cdn/shop/products/123.jpg?v=1711025819",
+                "aboutInfoBtn" : "УЗНАТЬ БОЛЬШЕ"
+            },
+
+            "aboutUsersMetod" : {
+                "aboutUsersMetodImg1" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/1.jpg",
+                "aboutUsersMetodImg2" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/4.jpg",
+                "aboutUsersMetodImg3" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/2.jpg",
+                "aboutUsersMetodText" : {
+                    "text1" : "Фигурный метод",
+                    "text2" : "Теперь само мое горло полно жизни. Дети нужны беременным женщинам, имеющим рожавших партнеров. Urna duis convallis convallis terus иногда этого хочет. Но бесплатно, а для горла это некрасиво. Теперь Маурис готовится к жизни. Дети живут в старости и внуки. За ним не последует то, что он был у кровати. Теперь результат для агента по недвижимости иногда другой."
+                },
+                "aboutUsersMetodBtn" : "УЗНАТЬ БОЛЬШЕ"
+            },
+
+            "aboutNews" : {
+                "News1" : {
+                    "News1Img" : "https://img.freepik.com/free-photo/portrait-man-standing-amusement-park-looking-camera_23-2148193980.jpg?t=st=1718464876~exp=1718468476~hmac=c64604d0d159862a7dd7f176ef3c04f7d391ce87f42f0ff1ac0a7b2e4a15a761&w=360",
+                    "News1Text" : {
+                        "text1" : "О НАС",
+                        "text2" : "Путеводитель по Wash-n-go’s",
+                        "text3" : "Образец текста. Нажмите, чтобы выбрать текстовое поле. Нажмите еще раз или дважды щелкните, чтобы начать редактирование текста."
+                    }
+                },
+                "News2": {
+                    "News2Text" : {
+                        "text1" : "СООБЩЕСТВО",
+                        "text2" : "Красота и индивидуальность",
+                        "text3" : "Образец текста. Нажмите, чтобы выбрать текстовое поле. Нажмите еще раз или дважды щелкните, чтобы начать редактирование текста."
+                    }
+                },
+                "News3":{
+                    "News3Img" : "https://img.freepik.com/free-photo/smiling-young-woman-with-long-blonde-hair-standing-blue-backdrop_23-2148193860.jpg?t=st=1718464887~exp=1718468487~hmac=78d5f6c70dbdf8fe76958f23ab3af4fb014555b1a7145d043548d73311788148&w=360",
+                    "News3Text" : {
+                        "text1" : "НОВОСТИ",
+                        "text2" : "Получите опыт правил причесок",
+                        "text3" : "Образец текста. Нажмите, чтобы выбрать текстовое поле. Нажмите еще раз или дважды щелкните, чтобы начать редактирование текста."
+                    }
+                },
+                "News4": {
+                    "News4Text" : {
+                        "text1" : "НОВОСТИ",
+                        "text2" :"Продукты для любой фактуры", 
+                        "text3" : "Образец текста. Нажмите, чтобы выбрать текстовое поле. Нажмите еще раз или дважды щелкните, чтобы начать редактирование текста."
+                    }
+                }
+            },
+
+            "History" : {
+                "HistoryText" : "Важно заботиться о больном, чтобы за ним следили, но это произойдет в такое время, когда будет много работы и боли. Если говорить до мельчайших подробностей, то никто не должен заниматься никакой работой, если не получит от нее какой-либо пользы.",
+                "HistoryBtn" : "УЗНАТЬ БОЛЬШЕ",
+                "HistoryTitle" : "История",
+                "HistoryImg" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/woman-getting-treatment-hairdres.jpg"
+            }
+
+
+            
+        },
+        "OurPortfolio": {
+            "firstImg" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/portrait-beautiful-african-woman.jpg",
+    "firstItemText" : ["Что мы делаем" , "Сомнения строгие раздражают боль в порицаниях в удовольствии он хочет быть волоском боли ес бежит нет размножения они ослеплены желанием они не выходят наружу.", "Изображение из", "Узнать больше"],
+    "firstBtn" : "Узнать больше",
+
+    "text2": ["Стрижки и укладки", "Важно заботиться о больном, чтобы за ним следили, но это произойдет в такое время, когда будет много работы и боли. Если говорить до мельчайших подробностей, то никто не должен заниматься никакой работой, если не получит от нее какой-либо пользы."],
+    "btn": "ЗАБРОНИРУЙТЕ СЕЙЧАС",
+
+    "btnInfo1": {
+       "titleBtn1" :"ВКУРЯЯ СТРИЖКА",
+       "textBtn1" : "Техника сухой стрижки, которая на 100% соответствует типу кудрявых волос каждого отдельного клиента. Мы просим вас прийти в салон с уложенной прической, чтобы ваш стилист прямо на ваших глазах создал желаемую прическу и форму! В данную услугу входит мытье и укладка.",
+       "listTitle": "Цена варьируется в зависимости от стилиста:",
+       "list" : {
+            "one" : "- Взрослый (70–110 долларов США)+ ", 
+            "two" : "- Подросток 13–17 лет (65–95 долларов США)+ ",
+            "tree" : "- Ребенок 5–12 лет (60–90 долларов США)+ ",
+            "for" : "- Малыш 1–4 лет (40–55 долларов США)+"
+       }
+    },
+    "btnInfo2": {
+       "titleBtn2" :"КУРЛИ-ТРЕНИРОВКА",
+       "textBtn2": "Отвечать. Клиент очень важен, за клиентом пойдет клиент. Болтун вынимает это. Suspendisse rhoncus laoreet purus quis elementum. Но лодка сделана из боли и мудрости. Каждый должен иметь возможность использовать это в своих интересах. Я тоже ненавижу салат. В капрале разве что теперь и сам сотрудник будет мишенью."
+    },
+    "btnInfo3": {
+       "titleBtn3" :"КУДРЯЯ СТИЛЬ",
+       "textBtn3" : "Отвечать. Клиент очень важен, за клиентом пойдет клиент. Болтун вынимает это. Suspendisse rhoncus laoreet purus quis elementum. Но лодка сделана из боли и мудрости. Каждый должен иметь возможность использовать это в своих интересах. Я тоже ненавижу салат. В капрале разве что теперь и сам сотрудник будет мишенью."
+    },
+
+
+    "portfolio" : {
+        "portfolioText" : "Портфолио стилей",
+        "users" : {
+            "user1" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/3534.jpg",
+            "user2" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/4.jpg",
+            "user3" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/2.jpg",
+            "user4" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/5646.jpg",
+            "user5" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/portrait-handsome-african-man_176420-12621.jpg",
+            "user6" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/1.jpg",
+            "user7" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/hair-4.jpg",
+            "user8" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/hair-3.jpg",
+            "user9" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/hair-2.jpg"
+        } 
+    }
+        },
+        "ContactUs" : {
+            "contactUsImg" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/1.jpg",
+            "contactUsImgDivText" : "Ваше путешествие по локонам вот-вот начнется!",
+            "contactUsImgDivBtn" : "ЗАБРОНИРУЙТЕ СЕЙЧАС",
+
+            "contactUsTimeDiv" : {
+                "contactUsTimeDivText" : {
+                    "h1" : "Часы работы",
+                    "p1" : "понедельник закрыто",
+                    "p2" : "Вторник, 9:00. Последняя встреча в 20:00.",
+                    "p3" : "Среда, 9:00. Последняя встреча в 20:00. ",
+                    "p4" : "Четверг, 9:00. Последняя встреча в 20:00.",
+                    "p5" : "Пятница, 9:00. Последняя встреча в 20:00.",
+                    "p6" : "Суббота, 8:00. Последняя встреча в 19:00.",
+                    "p7" : "Воскресенье, 9:00. Последняя встреча в 16:00."
+                },
+                "contactUsTimeDivBtn" : "ЗАБРОНИРУЙТЕ СЕЙЧАС",
+                "contactUsTimeDivImg" : "https://img.freepik.com/premium-photo/young-man-with-beard-isolated-keeping-arms-crossed-frontal-position_1368-65212.jpg?w=740"
+            },
+
+            "contactUsStyleList" : {
+                "StylistUser1" : {
+                    "StylistUser1Img" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/1354.jpg",
+                    "StylistUser1Text" : {
+                        "h2" : "Лувена Браун",
+                        "p1" : "Кудрявая стрижка для взрослых $100+",
+                        "p2" : "Кудрявая стрижка для подростков $95+",
+                        "p3" : "Кудрявая стрижка для детей (5-12 лет) $90+",
+                        "p4" : "Кудрявая стрижка для малышки (1–4 года) $55+"
+                    }
+                    
+                },
+                "StylistUser2" : {
+                    "StylistUser2Img" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/hair-2.jpg",
+                    "StylistUser2Text" : {
+                        "h2" : "Сьюзи Спейн",
+                        "p1" : "Кудрявая стрижка для взрослых $90+",
+                        "p2" : "Кудрявая стрижка для подростков $85+",
+                        "p3" : "Топ-хайлайты $90+",
+                        "p4" : "Частичное выделение $150+",
+                        "p5" : "Полная версия $200+"
+                    } 
+                },
+                "StylistUser3" : {
+                    "StylistUser3Img" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/5467890.jpg",
+                    "StylistUser3Text" : {
+                        "h2" : "Боб Гэтисон",
+                        "p1" : "Кудрявая стрижка для взрослых $80+",
+                        "p2" : "Кудрявая стрижка для подростков $75+",
+                        "p3" : "Кудрявая стрижка детская (5-12 лет) $70+",
+                        "p4" : "Кудрявая стрижка для малышки (1–4 года) $45+"
+                    }
+                }
+            }
+        }
+    },
+    "firstImg" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/portrait-beautiful-african-woman.jpg",
+    "firstItemText" : {
+        "text1" : "Что мы делаем",
+        "text2" : "Сомнения строгие раздражают боль в порицаниях в удовольствии он хочет быть волоском боли ес бежит нет размножения они ослеплены желанием они не выходят наружу.",
+        "btn" : "УЗНАТЬ БОЛЬШЕ"
+    },
+   
+    "text2":{
+        "title" : "Стрижки и укладки",
+        "p" : "Важно заботиться о больном, чтобы за ним следили, но это произойдет в такое время, когда будет много работы и боли. Если говорить до мельчайших подробностей, то никто не должен заниматься никакой работой, если не получит от нее какой-либо пользы.",
+        "btn": "ЗАБРОНИРУЙТЕ СЕЙЧАС"
+    },
+
+    "btnInfo1": {
+       "titleBtn1" :"ВКУРЯЯ СТРИЖКА",
+       "textBtn1" : "Техника сухой стрижки, которая на 100% соответствует типу кудрявых волос каждого отдельного клиента. Мы просим вас прийти в салон с уложенной прической, чтобы ваш стилист прямо на ваших глазах создал желаемую прическу и форму! В данную услугу входит мытье и укладка.",
+       "listTitle": "Цена варьируется в зависимости от стилиста.:",
+       "list" : {
+            "one" : "- Взрослый (70-110$)+", 
+            "two" : "- Подросток 13-17 лет ($65-95)+ ",
+            "tree" : "- Ребенок 5-12 лет (60-90$)+ ",
+            "for" : "- Малыш 1–4 лет (40–55 долларов США)+"
+       }
+    },
+    "btnInfo2": {
+       "titleBtn2" :"КУРЛИ-ТРЕНИРОВКА",
+       "textBtn2": "Отвечать. Клиент очень важен, за клиентом пойдет клиент. Болтун вынимает это. Suspendisse rhoncus laoreet purus quis elementum. Но лодка сделана из боли и мудрости. Каждый должен иметь возможность использовать это в своих интересах. Я тоже ненавижу салат. В капрале разве что теперь и сам сотрудник будет мишенью."
+    },
+    "btnInfo3": {
+       "titleBtn3" :"КУДРЯЯ СТИЛЬ",
+       "textBtn3" : "Отвечать. Клиент очень важен, за клиентом пойдет клиент. Болтун вынимает это. Suspendisse rhoncus laoreet purus quis elementum. Но лодка сделана из боли и мудрости. Каждый должен иметь возможность использовать это в своих интересах. Я тоже ненавижу салат. В капрале разве что теперь и сам сотрудник будет мишенью."
+    },
+
+
+    "portfolio" : {
+        "portfolioText" : "Портфолио стилей",
+        "users" : {
+            "user1" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/3534.jpg",
+            "user2" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/4.jpg",
+            "user3" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/2.jpg",
+            "user4" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/5646.jpg",
+            "user5" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/portrait-handsome-african-man_176420-12621.jpg",
+            "user6" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/1.jpg",
+            "user7" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/hair-4.jpg",
+            "user8" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/hair-3.jpg",
+            "user9" : "https://assets.nicepagecdn.com/d2cc3eaa/1307501/images/hair-2.jpg"
+        } 
+    },
+
+    "contact" : {
+        "img" : "https://img.freepik.com/free-photo/stylish-confident-businesswoman-smiling_176420-19466.jpg?t=st=1718297658~exp=1718301258~hmac=e633474cc907a3eb91ca7e9ed8d4e2e43f353356249660807708d8ff8f8bb99f&w=740",
+        "str" : "Связаться с нами",
+        "input1": {
+            "type1" : "Имя",
+            "placeholder1" : "Введите ваше имя"
+        },
+        "input2": {
+            "type2" : "Электронная почта",
+            "placeholder2" : "Введите действительный адрес электронной почты"
+        },
+        "input3" : {
+            "type3" : "письмо"
+        },
+
+        "submit" : "submit",
+
+        "call" : {
+            "callText" : " ПОЗВОНИТЕ НАМ",
+            "phones" : {
+                "phone1" : "1 (234) 567-891",
+                "phone2" : "1 (234) 987-654"
+            }
+        },
+        "location" : {
+            "locatilonText" : "РАСПОЛОЖЕНИЕ",
+            "links" : "121 Rock Sreet, 21 Avenue, New York, NY 92103-9000"
+        },
+        "hours" : {
+            "hoursText" : "ЧАСЫ",
+            "hoursData" : "Mon  Fri …… 11 am 8 pm, Sat, Sun  …… 6 am  8 pm"
+        },
+
+        "footer" : {
+            "footerText" : "Образец текста. Нажмите, чтобы выбрать текстовое поле. Нажмите еще раз или дважды щелкните, чтобы начать редактирование текста.",
+            "footerLink" : "Шаблон создан с помощью программы Website Builder."
+        }
+
+        
+}
+}
